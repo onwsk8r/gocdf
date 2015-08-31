@@ -26,6 +26,7 @@ for i := 0; i < length; i++ {
     }
     doStuff(row)
 }
+```
 
 ### I KNOW IT'S ROUGH
 It's supposed to accomplish one goal - let me run that loop.
